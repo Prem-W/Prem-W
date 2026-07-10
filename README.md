@@ -80,17 +80,16 @@ Building AI-powered applications, scalable web solutions, and intelligent system
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Prem-W&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem-W&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Prem-W&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem-W&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prem-W&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Prem-W&theme=tokyonight&hide_border=true" />
 </p>
----
 
 # 🚀 Featured Projects
 
