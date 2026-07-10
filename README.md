@@ -11,6 +11,3 @@ Building AI-powered applications, scalable web solutions, and intelligent system
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Prem-W&theme=tokyonight&hide_border=true" />
 </p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Prem-W&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
