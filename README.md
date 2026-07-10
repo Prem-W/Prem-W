@@ -98,26 +98,20 @@ Building AI-powered applications, scalable web solutions, and intelligent system
 
 # 🚀 Featured Projects
 
-⭐ AI Smart Campus Intelligence & Digital Twin Platform
+⭐ ScholarVault 
 
-⭐ AI Research Intelligence Platform using LLM, RAG & Knowledge Graph
+⭐Civic Issue Reporting System 
 
-⭐ Civic ArchAI
-
-⭐ IPL Live Analytics Dashboard (Power BI)
-
-⭐ Job & Skill Matching Portal
+⭐CodeX Energy Drink Demographics Analysis using Power BI
 
 ---
 
 # 📜 Certifications
 
 - Hugging Face
-- DeepLearning.AI
-- IBM SkillsBuild
-- Cisco Networking Academy
-- NPTEL
-- Infosys Springboard
+- Apna College — Full-Stack Web Development (MERN Stack)
+- Apna College — Alpha-DSA with Java
+- Power BI — PWSkills
 
 ---
 
