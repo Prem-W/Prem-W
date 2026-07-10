@@ -38,7 +38,7 @@ Building AI-powered applications, scalable web solutions, and intelligent system
 
 <td width="40%">
 
-<img src="https://raw.githubusercontent.com/Prem-W/Prem-W/main/profilegit.jpeg" width="300">
+<img src="https://raw.githubusercontent.com/Prem-W/Prem-W/main/profilegit.jpeg" width="330">
 
 </td>
 
