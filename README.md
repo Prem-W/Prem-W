@@ -30,7 +30,6 @@ Building AI-powered applications, scalable web solutions, and intelligent system
   <li>📊 Power BI & Data Analytics</li>
   <li>🧠 Learning LLMs, RAG & AI Agents</li>
   <li>☁️ Exploring Cloud & MLOps</li>
-  <li>🇯🇵 Preparing for opportunities in Japan</li>
   <li>🚀 Passionate about solving real-world problems using AI</li>
 </ul>
 
@@ -38,7 +37,7 @@ Building AI-powered applications, scalable web solutions, and intelligent system
 
 <td width="35%" align="center">
 
-<img src="https://raw.githubusercontent.com/Prem-W/Prem-W/main/profilegit.jpeg" width="270"/>
+<img src="https://raw.githubusercontent.com/Prem-W/Prem-W/main/profilegit.jpeg" width="400"/>
 
 </td>
 </table>
