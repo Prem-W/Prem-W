@@ -7,4 +7,7 @@ AI Engineer • Machine Learning Engineer • Full Stack Developer
 <p align="center">
 Building AI-powered applications, scalable web solutions, and intelligent systems.
 </p>
-![GitHub Streak](https://streak-stats.demolab.com?user=Prem-W&theme=tokyonight&hide_border=true)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Prem-W&theme=tokyonight&hide_border=true" />
+</p>
