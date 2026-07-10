@@ -30,7 +30,6 @@ Building AI-powered applications, scalable web solutions, and intelligent system
 - 🧠 Learning LLMs, RAG & AI Agents
 - ☁️ Exploring Cloud & MLOps
 - 🚀 Passionate about solving real-world AI problems
-- 🇯🇵 Preparing for global opportunities
 
 </td>
 
