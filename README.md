@@ -4,7 +4,7 @@ Since you're targeting **AI/ML, Full Stack, and international opportunities**, I
 
 ---
 
-# 👋 Aryan
+# 👋Prem
 
 ### AI Engineer | Machine Learning Engineer | Full Stack Developer
 
@@ -15,7 +15,7 @@ Since you're targeting **AI/ML, Full Stack, and international opportunities**, I
 # 🚀 About Me
 
 * 🎓 Final Year B.E. in Artificial Intelligence & Data Science
-* 💼 5 Months Java Full Stack Development Internship
+* 💼 5 Months Full Stack Development Internship
 * 🤖 Exploring LLMs, RAG, AI Agents & Computer Vision
 * 🌐 Building AI-powered and Full Stack applications
 * 🇯🇵 Preparing for global software opportunities
