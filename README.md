@@ -83,12 +83,12 @@ Building AI-powered applications, scalable web solutions, and intelligent system
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Prem-W&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem-W&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Prem-W&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem-W&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prem-W&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Prem-W&theme=github-dark-blue&hide_border=true" />
 </p>
 
 # 🚀 Featured Projects
@@ -113,7 +113,7 @@ Building AI-powered applications, scalable web solutions, and intelligent system
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prem-W&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true"/>
 </p>
----
+
 
 # 🌐 Connect With Me
 
