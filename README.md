@@ -95,7 +95,8 @@ Building AI-powered applications, scalable web solutions, and intelligent system
 
 # 📜 Certifications
 
-- Hugging Face
+- Hugging Face – Fundamentals of Large Language Models (LLMs)
+- Hugging Face – AI Agents
 - Apna College — Full Stack Web Development (MERN)
 - Apna College — Alpha DSA with Java
 - PWSkills — Power BI
