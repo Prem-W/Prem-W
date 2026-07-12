@@ -87,7 +87,7 @@ Building AI-powered applications, scalable web solutions, and intelligent system
 
 # 🚀 Featured Projects
 
-- ⭐ ScholarVault
+- ⭐ Al-Data-Center-Analytics-Platform
 - ⭐ Civic Issue Reporting System
 - ⭐ CodeX Energy Drink Demographics Analysis using Power BI
 
